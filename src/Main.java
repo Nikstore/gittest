@@ -13,5 +13,6 @@ public class Main {
         }
         System.out.println();
         System.out.println("всё отлично!");
+        System.out.println("всё круто");
     }
 }
